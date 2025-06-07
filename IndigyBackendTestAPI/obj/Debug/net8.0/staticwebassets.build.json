@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bWoSNgSmG7o6cMDSFj33pKXRHnWwEJVjIavpiNGulTs=",
+  "Source": "IndigyBackendTestAPI",
+  "BasePath": "_content/IndigyBackendTestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

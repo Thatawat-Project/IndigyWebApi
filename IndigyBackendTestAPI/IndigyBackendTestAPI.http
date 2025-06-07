@@ -1,0 +1,6 @@
+@IndigyBackendTestAPI_HostAddress = http://localhost:5085
+
+GET {{IndigyBackendTestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
